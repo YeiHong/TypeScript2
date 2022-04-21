@@ -1,3 +1,3 @@
-# TypeScript1
-Taller de TypeScript 1
+# TypeScript2
+Taller de TypeScript 2
 yh.zhangc@uniandes.edu.co
